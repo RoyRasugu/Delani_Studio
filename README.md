@@ -9,7 +9,7 @@ Roy Rasugu
 This project is website application for Delani Studio showing the services they offer, information about their company, a portfolio section and a form that enables users to interact with Delani Studios via message and receive a certain feedback depending on how they raised their concerns.
 
 ## Livepage
-
+https://royrasugu.github.io/Delani_Studio/
 
 ## Technologies Used
 
